@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "zh-TW"
+title = "Little Cube`s box"
+theme = "hugo-theme-fuji"
+noshowdate = true
+
+
